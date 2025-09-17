@@ -1,0 +1,6 @@
+#CICLO8
+#CarolAgyelaGonzalezOchoa
+
+LIBROS=["PRINCIPITO","LA_PERLA","LA_METAMORFOSIS","EL_TUNEL"]
+for letra in LIBROS:
+    print("ALGUNOS LIBROS SON: ",LIBROS)

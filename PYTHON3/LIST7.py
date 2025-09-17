@@ -1,0 +1,6 @@
+#CICLO7
+#CarolAgyelaGonzalezOchoa
+
+ARTISTAS=["SHAKIRA","ROSALIA","PESO_PLUMA","MALUMA","ANGELA","PEPE"]
+for letra in ARTISTAS:
+    print("ALGUNOS ARTISTAS SON: ",ARTISTAS)
